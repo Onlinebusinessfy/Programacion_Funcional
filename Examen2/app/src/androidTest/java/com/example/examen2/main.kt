@@ -126,6 +126,8 @@ fun main() {
 
     val porcentajeRiesgo = riesgo.size.toDouble() / medicamentos.size * 100
 
+    println("Medicamentos en riesgo: ${ riesgo.size} ")
+
     println("Porcentaje de medicamentos en riesgo: ${
         "%.2f".format(porcentajeRiesgo)
     }%")

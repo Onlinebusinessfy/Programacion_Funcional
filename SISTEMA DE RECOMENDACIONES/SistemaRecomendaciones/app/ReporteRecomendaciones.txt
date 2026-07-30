@@ -1,0 +1,23 @@
+REPORTE DEL SISTEMA DE RECOMENDACIONES
+======================================
+
+Total de productos:
+10000
+
+Total de recomendaciones:
+10
+
+Puntuación promedio:
+80.0
+
+
+Categorías recomendadas:
+{libros=10}
+
+
+Razones de rechazo:
+{}
+
+
+Productos populares:
+[Producto 1, Producto 2, Producto 3, Producto 4, Producto 5, Producto 6, Producto 7, Producto 8, Producto 9, Producto 10]

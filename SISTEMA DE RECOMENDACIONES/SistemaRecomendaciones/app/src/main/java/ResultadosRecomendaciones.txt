@@ -1,0 +1,62 @@
+RESULTADOS DEL SISTEMA DE RECOMENDACIONES
+
+Recomendación 1
+Producto: Producto 7853
+Categoría: libros
+Score: 80.0
+Razones: Coincide con una categoría preferida., El producto tiene una calificación alta., El producto se encuentra disponible., El producto es popular entre otros usuarios.
+
+Recomendación 2
+Producto: Producto 5557
+Categoría: libros
+Score: 80.0
+Razones: Coincide con una categoría preferida., El producto tiene una calificación alta., El producto se encuentra disponible., El producto es popular entre otros usuarios.
+
+Recomendación 3
+Producto: Producto 3261
+Categoría: libros
+Score: 80.0
+Razones: Coincide con una categoría preferida., El producto tiene una calificación alta., El producto se encuentra disponible., El producto es popular entre otros usuarios.
+
+Recomendación 4
+Producto: Producto 965
+Categoría: libros
+Score: 80.0
+Razones: Coincide con una categoría preferida., El producto tiene una calificación alta., El producto se encuentra disponible., El producto es popular entre otros usuarios.
+
+Recomendación 5
+Producto: Producto 9493
+Categoría: libros
+Score: 80.0
+Razones: Coincide con una categoría preferida., El producto tiene una calificación alta., El producto se encuentra disponible., El producto es popular entre otros usuarios.
+
+Recomendación 6
+Producto: Producto 7197
+Categoría: libros
+Score: 80.0
+Razones: Coincide con una categoría preferida., El producto tiene una calificación alta., El producto se encuentra disponible., El producto es popular entre otros usuarios.
+
+Recomendación 7
+Producto: Producto 4901
+Categoría: libros
+Score: 80.0
+Razones: Coincide con una categoría preferida., El producto tiene una calificación alta., El producto se encuentra disponible., El producto es popular entre otros usuarios.
+
+Recomendación 8
+Producto: Producto 2605
+Categoría: libros
+Score: 80.0
+Razones: Coincide con una categoría preferida., El producto tiene una calificación alta., El producto se encuentra disponible., El producto es popular entre otros usuarios.
+
+Recomendación 9
+Producto: Producto 309
+Categoría: libros
+Score: 80.0
+Razones: Coincide con una categoría preferida., El producto tiene una calificación alta., El producto se encuentra disponible., El producto es popular entre otros usuarios.
+
+Recomendación 10
+Producto: Producto 8837
+Categoría: libros
+Score: 80.0
+Razones: Coincide con una categoría preferida., El producto tiene una calificación alta., El producto se encuentra disponible., El producto es popular entre otros usuarios.
+
